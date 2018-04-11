@@ -1,0 +1,7 @@
+C:\Users\Tim\source\repos\TimSnyderLab1_2.0\TimSnyderLab1_2.0\bin\Debug\TimSnyderLab1_2.0.exe.config
+C:\Users\Tim\source\repos\TimSnyderLab1_2.0\TimSnyderLab1_2.0\bin\Debug\TimSnyderLab1_2.0.exe
+C:\Users\Tim\source\repos\TimSnyderLab1_2.0\TimSnyderLab1_2.0\bin\Debug\TimSnyderLab1_2.0.pdb
+C:\Users\Tim\source\repos\TimSnyderLab1_2.0\TimSnyderLab1_2.0\obj\Debug\TimSnyderLab1_2.0.csprojResolveAssemblyReference.cache
+C:\Users\Tim\source\repos\TimSnyderLab1_2.0\TimSnyderLab1_2.0\obj\Debug\TimSnyderLab1_2.0.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\TimSnyderLab1_2.0\TimSnyderLab1_2.0\obj\Debug\TimSnyderLab1_2.0.exe
+C:\Users\Tim\source\repos\TimSnyderLab1_2.0\TimSnyderLab1_2.0\obj\Debug\TimSnyderLab1_2.0.pdb
